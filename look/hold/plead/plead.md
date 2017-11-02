@@ -1,3 +1,3 @@
 You get 10 years in jail
 
-## [Back home](../home.md)
+## [Back home](../../../home.md)
