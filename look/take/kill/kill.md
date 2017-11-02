@@ -1,1 +1,3 @@
 The case was closed and you made up a story about his death.
+
+## [Back home](../home.md)
