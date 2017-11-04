@@ -3,6 +3,6 @@
 
 Click [here](home.md) to begin!
 
-Click [here](Cop_story.png) to check diagram for CYOA
+Click [here](images/Cop_story.png) to check diagram for CYOA
 
 Created by [Shi Wei Zheng](https://github.com/dive0) and [Nathan Lei](https://github.com/nathanl7812)
